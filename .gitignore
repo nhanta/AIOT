@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.chroma/
+**/chroma_db/
+data/chroma_db/
+data/sentiment_model.joblib
+data/_hello.txt
+*.egg-info/
+.DS_Store
+Thumbs.db
+.pytest_cache/
+
